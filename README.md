@@ -11,7 +11,7 @@
 **Background in:** Python, Machine Learning, Data Science.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/rqj7uk)
+* [LinkedIn](https://www.linkedin.com/in/torresgt)
 
 
 ## Projetos:
