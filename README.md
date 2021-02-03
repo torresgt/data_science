@@ -4,11 +4,11 @@
   <img src="banner.png" >
 </p>
 
-# Gabriel Torres
+# Gabriel Torres P. Cabral
 <sub></sub>
 
 
-**Background in:** Python, Machine Learning, Data Science.
+**Background in:** Python, Data Science e RPA(Robotic Process Automation).
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/torresgt)
